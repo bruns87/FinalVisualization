@@ -9,3 +9,6 @@ Next we look at the birth year of students, we see a majority born between 1980-
 <iframe src="https://public.tableau.com/views/FinalAssignment2_0/Dashboard1?:embed=y&:display_count=yes" width="100%" height="500"></iframe>
 
 This is quite a diverse class in terms of occupation, age, and gender.
+
+
+
